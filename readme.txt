@@ -12,7 +12,17 @@ Perfect Audience is the fast and affordable Facebook and web retargeting platfor
 
 [Perfect Audience](http://perfectaudience.com) lets you create Facebook and web retargeting campaigns in minutes that bring back lost customers and get you more sales and conversions.  This plugin integrates your Perfect Audience code across your WordPress site so you can get started without editing code.
 
-For more information, check out [Perfect Audience](http://perfectaudience.com/)
+<h4>Try it free</h4>
+
+To create a free retargeting campaign for your business, head to [Perfect Audience](http://perfectaudience.com/).  It takes just minutes to sign up and your first campaign is free for 14 days or up to $60 in ad spend.
+
+[Start a free retargeting campaign today](http://perfectaudience.com)
+
+<h4>Who uses Perfect Audience?</h4>
+
+More than 2000 businesses of all sizes use Perfect Audience to bring back lost customers.  Some you might know include [Vita Coco](http://vitacoco.com), [Oregon State University](http://oregonstate.edu), and [Freshbooks](http://freshbooks.com).
+
+<h4>Features</h4>
 
 Perfect Audience features include:
 
@@ -26,7 +36,9 @@ Perfect Audience features include:
 
 * Dedicated, devoted support from our team of marketing experts to make sure you campaigns are effective and optimized.
 
-To get started, check out [Perfect Audience](http://perfectaudience.com/)
+<h4>Learn more</h4>
+
+To learn more about how Perfect Audience can help grow your business, check out [Perfect Audience](http://perfectaudience.com/) today.
 
 == Installation ==
 
@@ -35,6 +47,51 @@ To get started, check out [Perfect Audience](http://perfectaudience.com/)
 * Navigate to Settings -> Perfect Audience Retargeting
 * Enter your site_id from your [Perfect Audience](http://perfectaudience.com/) account
 * Your script is going to be embedded to your footer
+
+== Frequently Asked Questions ==
+
+= What does it cost? =
+
+Visit [this link](https://www.perfectaudience.com/docs#how_much_does_it_cost_autoopen) to learn more about our super low prices on Facebook and web retargeting.
+
+= How can I talk to someone to learn more? =
+
+You can reach us anytime via e-mail via our [contact page](http://perfectaudience.com/contact).
+
+= Can I use Perfect Audience with multiple sites? =
+
+You sure can.  Visit [this link](https://www.perfectaudience.com/docs#multisite_autoopen) to learn how to manage campaigns for multiple sites from your Perfect Audience account.
+
+= Can I use this with Google Tag Manager? =
+
+Yep.  Click [here](https://www.perfectaudience.com/docs#tagmanager_autoopen) for instructions.
+
+= How do I set this up?  Is there a guide or something? =
+
+Yes!  Visit [this link](https://www.perfectaudience.com/docs#quickstart_guide_autoopen) to find an illustrated guide for setting up your first retargeting lists and campaigns.
+
+= How many visitors a month do I need to have to my site for this to work? =
+
+We recommend a minimum of 5,000 unique monthly visitors to your web site.
+
+= Are there any minimums? =
+
+Campaigns have an ultra low $25/week minimum budget.
+
+= Is there any reason I shouldn't sign up right now and try it out? = 
+
+Nope. :)
+
+For more FAQ-age, visit our [full FAQ](http://perfectaudience.com/docs) or [read our docs](https://www.perfectaudience.com/docs#documentation_autoopen) on [PerfectAudience.com](http://perfectaudience.com).
+
+== Screenshots ==
+
+1. **Install your tag** - Our Perfect Pixel lets you cookie users AND track conversions using a single tag.
+2. **Segment your visitors** - Effortlessly isolate just the visitors you want to retarget.
+3. **Build powerful campaigns** - Design smart, precise, effective campaigns in minutes.
+4. **We bring your visitors back** - We serve your ads to your users on top sites. They click and return.
+5. **Track impressions, clicks, and sales** - Measure your ROI in our elegant dashboard. Stats update hourly!
+
 
 == Changelog ==
 
