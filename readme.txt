@@ -3,7 +3,7 @@ Contributors: perfectaudience
 Tags: perfectaudience, retargeting, ads, advertising, marketing, Facebook, banner ads, online advertising, online marketing
 Requires at least: 3.0
 Tested up to: 3.4.1
-Stable tag: 1.0
+Stable tag: 1.3
 License: GPLv2
 
 Perfect Audience is the fast and affordable Facebook and web retargeting platform
@@ -96,3 +96,12 @@ For more FAQ-age, visit our [full FAQ](http://perfectaudience.com/docs) or [read
 
 = 1.0 = 
 * The first major version
+
+= 1.1 =
+* Adding FAQ
+
+= 1.2 =
+* Adding screenshots
+
+= 1.3 = 
+* Adding header image
