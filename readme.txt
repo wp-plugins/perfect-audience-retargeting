@@ -6,7 +6,7 @@ Tested up to: 3.4.1
 Stable tag: 1.3
 License: GPLv2
 
-Perfect Audience is the fast and affordable Facebook and web retargeting platform
+Perfect Audience is the fast and easy Facebook and web retargeting platform. Get more sales, more customers and more conversions.
 
 == Description ==
 
