@@ -18,6 +18,10 @@ To create a free retargeting campaign for your business, head to [Perfect Audien
 
 [Start a free retargeting campaign today](http://perfectaudience.com)
 
+<h4>What is retargeting?</h4>
+
+When someone visits your web site and doesn't sign up or convert, we place an anonymous cookie in their browser that lets us serve them ads later on Facebook or across a network of more than 100,000+ web sites.  When they see these ads, it reminds them about your business and they come back and convert.  Think of it like a second chance to reach lost customers.  YOu can learn more by [clicking here](http://perfectaudience.com/retargeting).
+
 <h4>Who uses Perfect Audience?</h4>
 
 More than 2000 businesses of all sizes use Perfect Audience to bring back lost customers.  Some you might know include [Vita Coco](http://vitacoco.com), [Oregon State University](http://oregonstate.edu), and [Freshbooks](http://freshbooks.com).
