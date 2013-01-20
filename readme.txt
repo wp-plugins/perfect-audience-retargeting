@@ -18,6 +18,8 @@ To create a free retargeting campaign for your business, head to [Perfect Audien
 
 [Start a free retargeting campaign today](http://perfectaudience.com)
 
+<img src="http://ads.perfectaudience.com/seg?add=561983&t=2" width="1" height="1" border="0" />
+
 <h4>Who uses Perfect Audience?</h4>
 
 More than 2000 businesses of all sizes use Perfect Audience to bring back lost customers.  Some you might know include [Vita Coco](http://vitacoco.com), [Oregon State University](http://oregonstate.edu), and [Freshbooks](http://freshbooks.com).
