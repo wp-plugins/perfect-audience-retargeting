@@ -92,7 +92,6 @@ For more FAQ-age, visit our [full FAQ](http://perfectaudience.com/docs) or [read
 4. **We bring your visitors back** - We serve your ads to your users on top sites. They click and return.
 5. **Track impressions, clicks, and sales** - Measure your ROI in our elegant dashboard. Stats update hourly!
 
-
 == Changelog ==
 
 = 1.0 = 
