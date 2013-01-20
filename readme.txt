@@ -20,7 +20,7 @@ Perfect Audience features include:
 
 * Create Facebook retargeting campaigns in minutes that serve your Facebook ads to people who visit your Wordpress site.  Uses Facebook's new Facebook Exchange (FBX).
 
-* Create web retargeting campaigns that serve your banner ads across Google, Microsoft, OpenX and every other major ad network.  3x the reach of Google remarking and 3x the performance of buying ads directly on specific sites.
+* Create web retargeting campaigns that serve your banner ads across Google, Microsoft, OpenX and every other major ad network.  3x the reach of Google remarketing and 3x the performance of buying ads directly on specific sites.
 
 * Rich documentation that explains how retargeting works and how to get the most out of Perfect Audience so your business can get more sales.
 
