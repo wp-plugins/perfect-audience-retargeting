@@ -1,7 +1,7 @@
 === Perfect Audience Retargeting ===
 Contributors: perfectaudience
 Donate link:
-Tags: perfect audience, retargeting, affiliate, simple, e-commerce, eccomerce, plugins, ads, plugin, admin, advertising, marketing, Facebook, banner ads, online advertising, online marketing
+Tags: perfectaudience, retargeting, affiliate, simple, e-commerce, eccomerce, plugins, ads, plugin, admin, advertising, marketing, Facebook, banner ads, online advertising, online marketing
 Requires at least: 3.0
 Tested up to: 3.4.1
 Stable tag: 1.3
