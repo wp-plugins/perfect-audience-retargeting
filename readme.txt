@@ -1,5 +1,6 @@
 === Perfect Audience Retargeting ===
 Contributors: perfectaudience
+Donate link:
 Tags: perfectaudience, retargeting, ads, advertising, marketing, Facebook, banner ads, online advertising, online marketing
 Requires at least: 3.0
 Tested up to: 3.4.1
@@ -109,3 +110,5 @@ For more FAQ-age, visit our [full FAQ](http://perfectaudience.com/docs) or [read
 
 = 1.3 = 
 * Adding header image
+
+== Upgrade Notice ==
