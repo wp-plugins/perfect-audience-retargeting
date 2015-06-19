@@ -5,7 +5,7 @@
 * Description:         Perfect Audience is the most effective Facebook and web retargeting platform. This plugin integrates your Perfect Audience code across your WordPress site in a few clicks.
 * Author:              PerfectAudience
 * Author URI:          http://perfectaudience.com
-* Version: 			   1.0
+* Version: 			   1.4
 */
 
 class WP_PerfectAudience {
