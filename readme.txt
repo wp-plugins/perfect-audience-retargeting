@@ -4,7 +4,7 @@ Donate link:
 Tags: perfectaudience, retargeting, affiliate, simple, e-commerce, eccomerce, plugins, ads, plugin, admin, advertising, marketing, Facebook, banner ads, online advertising, online marketing
 Requires at least: 3.0
 Tested up to: 3.4.1
-Stable tag: 1.3
+Stable tag: 1.4
 License: GPLv2
 
 Perfect Audience is the fast and easy Facebook and web retargeting platform. Get more sales, more customers and more conversions.
