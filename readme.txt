@@ -45,6 +45,10 @@ Perfect Audience features include:
 
 To learn more about how Perfect Audience can help grow your business, check out [Perfect Audience](http://perfectaudience.com/) today.
 
+<h4>Support</h4>
+
+To request support, please email support@perfectaudience.com
+
 == Installation ==
 
 * Upload the Perfect Audience plugin to your blog
@@ -110,5 +114,8 @@ For more FAQ-age, visit our [full FAQ](http://perfectaudience.com/docs) or [read
 
 = 1.3 = 
 * Adding header image
+
+= 1.4 = 
+* Adding support link
 
 == Upgrade Notice ==
