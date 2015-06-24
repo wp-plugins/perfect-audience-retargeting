@@ -4,7 +4,7 @@ Donate link:
 Tags: perfectaudience, retargeting, affiliate, simple, e-commerce, eccomerce, plugins, ads, plugin, admin, advertising, marketing, Facebook, banner ads, online advertising, online marketing
 Requires at least: 3.0
 Tested up to: 3.4.1
-Stable tag: 1.4
+Stable tag: 1.5
 License: GPLv2
 
 Perfect Audience is the fast and easy Facebook and web retargeting platform. Get more sales, more customers and more conversions.
@@ -54,7 +54,7 @@ To request support, please email support@perfectaudience.com
 * Upload the Perfect Audience plugin to your blog
 * Activate it
 * Navigate to Settings -> Perfect Audience Retargeting
-* Enter your site_id from your [Perfect Audience](http://perfectaudience.com/) account
+* Enter your advertiser ID from your [Perfect Audience](http://perfectaudience.com/) account
 * Your script is going to be embedded to your footer
 
 == Frequently Asked Questions ==
@@ -117,5 +117,8 @@ For more FAQ-age, visit our [full FAQ](http://perfectaudience.com/docs) or [read
 
 = 1.4 = 
 * Adding support link
+
+= 1.5 = 
+* Updated documentation
 
 == Upgrade Notice ==
